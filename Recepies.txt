@@ -5,7 +5,8 @@ Noodles
 chapathi
 parrota
 
-
+beans
+pizza
 
 
 Thankyou :)
